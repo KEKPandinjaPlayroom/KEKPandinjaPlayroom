@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Kay
+# 👋 Hi, I'm Kay
 
 - 🔥 **22 Jahre alt**, wohnhaft in der Nähe von Bielefeld, Deutschland
 - 💼 Aktuell in einer **Vollausbildung zum Verkäufer**
@@ -26,6 +26,13 @@ Schau dir einige meiner öffentlichen Repositories an, um mehr über meine Arbei
 
 ## 🌟 Mein Projekt: KEKHUB
 [KEKHUB](https://kekhub.tebex.io/) ist meine Plattform, auf der ich maßgeschneiderte Scripts für FiveM verkaufe. Hier findet ihr eine Auswahl an Tools und Erweiterungen, die sowohl für Roleplay- als auch für Military-Server genutzt werden können.
+
+---
+
+## ☕ Unterstütze meine Arbeit
+Wenn dir meine Projekte gefallen und du mich unterstützen möchtest, kannst du mir gerne einen Kaffee spendieren! 😊
+
+[![Buy me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20Coffee-FCC624?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/kekpandinjaplayroom)
 
 ---
 
