@@ -30,7 +30,7 @@ Schau dir einige meiner öffentlichen Repositories an, um mehr über meine Arbei
 ---
 
 ## 📈 Statistiken
-![Kay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Kay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KEKPandinjaPlayroom&show_icons=true&theme=radical)
 
 ---
 
