@@ -4,12 +4,6 @@
 - 💼 Aktuell in einer **Vollausbildung zum Verkäufer**
 - 💻 **Gründer und Leitung von [KEKHUB](https://kekhub.tebex.io/)**, einem Online-Shop für digitale Produkte und FiveM-Skripte
 - 🌍 **Freelancer** im Bereich der Entwicklung von **FiveM-Scripts** für Roleplay- und Military-Server
-- 👨‍💻 Programmiersprachen & Technologien: 
-  - Lua
-  - HTML
-  - CSS
-  - JavaScript
-  - MySQL und mehr
 - 🎮 Leidenschaft für Gaming und das Entwickeln von Scripts für die FiveM-Community
 
 ---
