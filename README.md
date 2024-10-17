@@ -1,13 +1,16 @@
-# 👋 Hi, I'm Kay
+# 👋 Hi, ich bin Pandinja aka Kay!
 
 - 🔥 **22 Jahre alt**, wohnhaft in der Nähe von Bielefeld, Deutschland
 - 💼 Aktuell in einer **Vollausbildung zum Verkäufer**
 - 💻 **Gründer und Leitung von [KEKHUB](https://kekhub.tebex.io/)**, einem Online-Shop für digitale Produkte und FiveM-Skripte
 - 🌍 **Freelancer** im Bereich der Entwicklung von **FiveM-Scripts** für Roleplay- und Military-Server
 - 👨‍💻 Programmiersprachen & Technologien: 
-  - Lua, HTML, CSS, JavaScript, MySQL und mehr
+  - Lua
+  - HTML
+  - CSS
+  - JavaScript
+  - MySQL und mehr
 - 🎮 Leidenschaft für Gaming und das Entwickeln von Scripts für die FiveM-Community
-- 📫 **Erreichbar auf meinem [Discord-Server](https://discord.com/invite/wvEXW9Txbj)**
 
 ---
 
@@ -24,21 +27,27 @@ Schau dir einige meiner öffentlichen Repositories an, um mehr über meine Arbei
 
 ---
 
-## 🌟 Mein Projekt: KEKHUB
-[KEKHUB](https://kekhub.tebex.io/) ist meine Plattform, auf der ich maßgeschneiderte Scripts für FiveM verkaufe. Hier findet ihr eine Auswahl an Tools und Erweiterungen, die sowohl für Roleplay- als auch für Military-Server genutzt werden können.
+## 📫 Kontakt
+Wenn du an einer Zusammenarbeit interessiert bist oder Fragen hast, erreichst du mich am besten über:
+- [Discord](https://discord.com/invite/wvEXW9Txbj)
+- [E-Mail](mailto:kekfaction@e-mail.de)
 
 ---
 
-## ☕ Unterstütze meine Arbeit
-Wenn dir meine Projekte gefallen und du mich unterstützen möchtest, kannst du mir gerne einen Kaffee spendieren! 😊
-
-[![Buy me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20Coffee-FCC624?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/kekpandinjaplayroom)
+## Links
+<a href='https://discord.com/invite/wvEXW9Txbj'>![Discord](https://github.com/user-attachments/assets/87f06597-1c57-4746-afb5-5472ed0b8daa)
+<a href='https://kekhub.tebex.io'>![Store](https://github.com/user-attachments/assets/7bb503d8-8db4-4e5e-a08e-22344bfd7014)
+<a href='https://discord.com/invite/ydszHt5ZHZ'>![Server](https://github.com/user-attachments/assets/f19b2098-876d-4c53-a1ce-cf65ee53d3e9)
+<a href='https://kekfaction.gitbook.io/kekhub'>![Docs](https://github.com/user-attachments/assets/3546cf97-6504-454b-9bac-01c5cda3ff23)
 
 ---
 
-## 📈 Statistiken
+## 📊 GitHub Stats
 ![Kay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KEKPandinjaPlayroom&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KEKPandinjaPlayroom&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KEKPandinjaPlayroom&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-📫 **Kontakt**: Wenn du an einer Zusammenarbeit interessiert bist oder Fragen hast, erreichst du mich am besten über [Discord](https://discord.com/invite/wvEXW9Txbj).
+[![](https://visitcount.itsvg.in/api?id=KEKPandinjaPlayroom&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Buy me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20Coffee-FCC624?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/kekpandinjaplayroom)
